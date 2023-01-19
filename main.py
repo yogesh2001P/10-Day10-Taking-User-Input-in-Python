@@ -1,6 +1,6 @@
-print(" hi yogesh  ")
-print(" hi prajakta  ")
-name = input("What is your name?")
-#asking for name
-if name == "JBYT27":
-  print("Hello Administrator!")
+yoppyoprint(" hi yogesh  ")
+yoppyoprint(" hi prajakta  ")
+yopnyopame = input("What is your name?")
+yop#asking for name
+iyopf name == "JBYT27":
+ yop print("Hello Administrator!")

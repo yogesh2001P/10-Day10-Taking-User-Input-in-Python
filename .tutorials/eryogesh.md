@@ -6,12 +6,13 @@ hi i am yogesh
 
 //nmm//
 https://replit.com/@YogeshPatil26/10-Day10-Taking-User-Input-in-Python#main.py
-
+ # example:
+ 
 a = 1
-
 b = 2
+C = 3
 
-print(" hi yogesh  ")
+# print(" hi yogesh  ")
 print(" hi prajakta  ")
 name = input("What is your name?")
 #asking for name
